@@ -8,7 +8,7 @@ const Hero = () => {
             <div className="hero-bg -z-20 absolute h-screen w-screen object-cover right-40 top-0 xl:-right-20 xl:-top-10 overflow-hidden"></div>
 
             <div className="flex flex-col xl:flex-row justify-between">
-                <div className="max-w-2xl py-12 xl:py-24">
+                <div className="max-w-2xl pt-12 xl:pt-24">
                     <h1 className="text-[52px] xl:text-[88px] font-bold leading-tight">
                         Putuk Truno Camp Area
                     </h1>
@@ -31,7 +31,7 @@ const Hero = () => {
                             </p>
                         </div>
 
-                        <div className="flex flex-col md:flex-row items-center gap-5">
+                        <div className="flex flex-col md:flex-row items-center gap-5 mb-10 xl:mb-0">
                             <button className="w-full md:w-auto flex items-center justify-center gap-x-2 borde px-8 py-4 rounded-full bg-[#30af5b] text-white font-semibold cursor-pointer">
                                 Download App
                             </button>
