@@ -45,7 +45,7 @@ const Hero = () => {
                 </div>
 
                 <div className="relative">
-                    <div className="w-72 h-60 bg-black rounded-3xl xl:absolute xl:right-44 xl:top-32 px-6 py-10">
+                    <div className="w-96 md:w-80 lg:w-72 h-60 bg-black rounded-3xl xl:absolute xl:right-44 xl:top-32 px-6 py-10">
                         <div>
                             <p className="text-[#f7f7f7] text-base mb-2 ml-3">
                                 Location
